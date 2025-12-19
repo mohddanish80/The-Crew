@@ -1,0 +1,7 @@
+{
+  "name": "The Crew",
+  "description": "An AI-powered automated receptionist dashboard for solopreneurs. Manages missed calls, schedules appointments, and collects deposits.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
